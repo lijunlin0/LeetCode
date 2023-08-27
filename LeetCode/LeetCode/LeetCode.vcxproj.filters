@@ -24,10 +24,34 @@
     <ClInclude Include="LeetCode0009.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="LeetCode0014.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0020.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0021.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0026.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0027.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0028.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0035.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0058.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

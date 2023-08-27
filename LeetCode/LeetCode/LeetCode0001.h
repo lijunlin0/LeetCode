@@ -1,8 +1,4 @@
 #pragma once
-#include<iostream>
-#include<vector>
-#include<unordered_map>
-using namespace std;
 /*
 名称: 两数之和
 
@@ -15,6 +11,11 @@ using namespace std;
 解题思路:
 使用哈希表:遍历数组中每个整数，并查询（目标值-当前值）是否在哈希表中，如果没有就将当前值存进哈希表，如果找到则返回两个值的下标。
 */
+#include<iostream>
+#include<vector>
+#include<unordered_map>
+using namespace std;
+
 class LeetCode0001 
 {
 public:
