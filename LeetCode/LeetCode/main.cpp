@@ -10,11 +10,12 @@
 #include"LeetCode0028.h"
 #include"LeetCode0035.h"
 #include"LeetCode0058.h"
+#include"LeetCode0066.h"
 using namespace std;
 
 int main()
 {
-	LeetCode0035 a;
+	LeetCode0066 a;
 	a.test();
 
 	system("pause");

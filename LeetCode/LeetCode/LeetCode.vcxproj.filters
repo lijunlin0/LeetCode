@@ -48,6 +48,9 @@
     <ClInclude Include="LeetCode0058.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="LeetCode0066.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
