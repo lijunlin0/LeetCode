@@ -30,6 +30,6 @@ public:
     void test()
     {
         string s = " fly to  the  moon   ";
-        cout<<lengthOfLastWord(s);
+        cout << lengthOfLastWord(s);
     }
 };

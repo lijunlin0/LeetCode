@@ -12,6 +12,7 @@
 #include<vector>
 #include<iostream>
 using namespace std;
+
 class LeetCode0066 {
 public:
     vector<int> plusOne(vector<int>& digits) {
