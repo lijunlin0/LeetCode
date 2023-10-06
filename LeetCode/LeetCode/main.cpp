@@ -1,9 +1,9 @@
 #include<iostream>
-#include"LeetCode0125.h"
+#include"LeetCode0141.h"
 
 int main()
 {
-	LeetCode0125 a;
+	LeetCode0141 a;
 	a.test();
 
 	system("pause");
