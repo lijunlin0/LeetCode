@@ -158,6 +158,10 @@
     <ClInclude Include="LeetCode0125.h" />
     <ClInclude Include="LeetCode0136.h" />
     <ClInclude Include="LeetCode0141.h" />
+    <ClInclude Include="LeetCode0144.h" />
+    <ClInclude Include="LeetCode0145.h" />
+    <ClInclude Include="LeetCode0160.h" />
+    <ClInclude Include="LeetCode0168.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
