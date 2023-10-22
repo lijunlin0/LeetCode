@@ -19,7 +19,7 @@ public:
         std::unordered_map<int, int> umap;
         for (int i = 0; i < nums.size(); i++)
         {
-            if (umap.count(nums[i]) && std::abs(umap.at(nums[i]) - i) <= k)
+            if (umap.count(nums[i]) && i - umap.at(nums[i]) <= k)
             {
                 return true;
             }
@@ -34,6 +34,6 @@ public:
     void test()
     {
         std::vector<int> nums = { 1,0,1,1 };
-        std::cout<<containsNearbyDuplicate(nums, 1);
+        std::cout << containsNearbyDuplicate(nums, 1);
     }
 };
