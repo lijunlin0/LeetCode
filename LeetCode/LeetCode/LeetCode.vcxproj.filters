@@ -132,6 +132,24 @@
     <ClInclude Include="LeetCode0219.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="LeetCode0225.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0222.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0226.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0228.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0231.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0232.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">

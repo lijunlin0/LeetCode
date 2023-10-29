@@ -22,8 +22,8 @@ public:
         {
             return false;
         }
-        std::unordered_map<char, int> m1;
-        std::unordered_map<char, int> m2;
+        std::unordered_map<char, char> m1;
+        std::unordered_map<char, char> m2;
         int length = s.size();
         for (int i = 0; i < length; i++)
         {
