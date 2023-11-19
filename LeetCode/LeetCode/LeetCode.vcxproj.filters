@@ -150,10 +150,55 @@
     <ClInclude Include="LeetCode0232.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="LeetCode0234.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0242.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0257.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0258.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0263.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0268.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0003.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0278.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0283.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0290.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0292.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0303.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0006.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0007.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
