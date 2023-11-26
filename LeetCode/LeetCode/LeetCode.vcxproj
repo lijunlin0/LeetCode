@@ -136,7 +136,9 @@
     <ClInclude Include="LeetCode0003.h" />
     <ClInclude Include="LeetCode0006.h" />
     <ClInclude Include="LeetCode0007.h" />
+    <ClInclude Include="LeetCode0008.h" />
     <ClInclude Include="LeetCode0009.h" />
+    <ClInclude Include="LeetCode0011.h" />
     <ClInclude Include="LeetCode0014.h" />
     <ClInclude Include="LeetCode0020.h" />
     <ClInclude Include="LeetCode0021.h" />
@@ -190,6 +192,11 @@
     <ClInclude Include="LeetCode0290.h" />
     <ClInclude Include="LeetCode0292.h" />
     <ClInclude Include="LeetCode0303.h" />
+    <ClInclude Include="LeetCode0326.h" />
+    <ClInclude Include="LeetCode0342.h" />
+    <ClInclude Include="LeetCode0344.h" />
+    <ClInclude Include="LeetCode0345.h" />
+    <ClInclude Include="LeetCode0349.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
