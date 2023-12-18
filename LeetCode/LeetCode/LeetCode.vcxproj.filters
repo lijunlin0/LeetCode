@@ -255,6 +255,27 @@
     <ClInclude Include="LeetCode0012.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="LeetCode0013.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0412.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0414.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0415.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0434.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0018.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode0019.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
