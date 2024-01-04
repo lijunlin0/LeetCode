@@ -131,6 +131,9 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LeetCode0004.h" />
+    <ClInclude Include="LeetCode0005.h" />
+    <ClInclude Include="LeetCode0010.h" />
     <ClInclude Include="LeetCode0022.h" />
     <ClInclude Include="LeetCode0024.h" />
     <ClInclude Include="LeetCode0459.h" />
@@ -225,6 +228,11 @@
     <ClInclude Include="LeetCode0448.h" />
     <ClInclude Include="LeetCode0455.h" />
     <ClInclude Include="LeetCode0461.h" />
+    <ClInclude Include="LeetCode0463.h" />
+    <ClInclude Include="LeetCode0476.h" />
+    <ClInclude Include="LeetCode0482.h" />
+    <ClInclude Include="LeetCode0485.h" />
+    <ClInclude Include="LeetCode0492.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
